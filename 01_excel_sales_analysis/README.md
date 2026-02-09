@@ -1,4 +1,5 @@
 # 📊 Sales Performance Analysis (Excel)
+![Sales Dashboard](dashboard.png)
 
 ## 🧠 Business Problem
 The objective of this project is to analyze historical sales data to identify:
