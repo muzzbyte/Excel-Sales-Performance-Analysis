@@ -1,59 +1,38 @@
-# 📊 Data Analytics Portfolio
+# 📊 Sales Performance Analysis – Excel Dashboard
 
-Welcome to my Data Analytics portfolio!  
-This repository showcases hands-on projects where I analyze real-world datasets to extract insights, solve business problems, and support data-driven decision-making.
+## 📌 Overview
+This project is an end-to-end sales performance analysis built using Microsoft Excel.  
+The goal of this analysis is to identify sales trends, regional profitability, and top-performing products to support data-driven business decisions.
 
 ---
 
-## 🔍 What You’ll Find Here
-This portfolio includes end-to-end data analytics projects covering:
+## 🛠 Tools & Skills Used
+- Microsoft Excel
 - Data Cleaning & Preparation
-- Exploratory Data Analysis (EDA)
-- SQL-based business analysis
-- Dashboarding & reporting
-- Actionable insights and recommendations
-
-Each project is structured with clear problem statements, analysis steps, and business-focused conclusions.
+- Pivot Tables & Pivot Charts
+- KPI Calculation
+- Dashboard Design
 
 ---
 
-## 🧰 Tools & Skills
-- **SQL** (Joins, CTEs, Aggregations, Window Functions)
-- **Excel / Google Sheets** (Pivot Tables, Lookups, Business KPIs)
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Visualization** (Power BI, Tableau)
-- **Statistics & EDA**
-- **Data Cleaning & Wrangling**
+## 📂 Dataset
+- Sample Superstore Dataset
+- ~10,000 sales records
+- Key fields: Order Date, Region, Category, Sales, Profit, Quantity
 
 ---
 
-## 📁 Projects
-| Project Name | Tools Used | Description |
-|-------------|-----------|-------------|
-| Sales Performance Analysis | Excel | Analyzed sales data to identify revenue trends, top products, and regional performance |
-| Customer Churn Analysis | SQL | Identified churn drivers using SQL queries and cohort-based analysis |
-| HR Attrition Analysis | Python | Performed EDA to understand employee attrition patterns |
-| Business Dashboard | Power BI | Built an executive-level dashboard for KPI tracking |
-| End-to-End Capstone | SQL, Python, Power BI | Full analytics workflow from raw data to insights |
-
-> 📌 Detailed documentation is available inside each project folder.
+## 🔍 Analysis Performed
+- Sales trend analysis (Year & Month)
+- Profit analysis by region
+- Top 10 products by profit
+- Executive KPIs (Total Sales, Total Profit, Avg Profit Margin)
 
 ---
 
-## 🎯 Why This Portfolio
-I created these projects to strengthen my practical experience as a **Data Analyst**, focusing on:
-- Translating data into insights
-- Communicating findings clearly
-- Solving business-oriented problems
+## 📊 Dashboard Highlights
+- Total Sales: 2.29M  
+- Total Profit: 286K  
+- Average Profit Margin: ~12.5%
 
----
-
-## 👤 About Me
-I am an aspiring **Data Analyst** with hands-on experience in SQL, Python, Excel, and BI tools.  
-I enjoy working with data to uncover patterns, answer business questions, and create meaningful visualizations.
-
-📫 **Connect with me on LinkedIn:** *(add your LinkedIn link here)*
-
----
-
-⭐ If you’re a recruiter or hiring manager, feel free to explore the projects and reach 
+The dashboard provides a clear, executive-level view of business performance.
